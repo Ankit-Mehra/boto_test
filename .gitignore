@@ -1,0 +1,6 @@
+__pycache__
+
+# pipenv files
+Pipfile
+Pipfile.lock
+upload
